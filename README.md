@@ -26,10 +26,12 @@
 ## Some of my projects
 
 **HorseService**  
+:horse_racing: Horse breeding and investments data management  
 [![Google Play](https://img.shields.io/badge/-GooglePlay-000000?style=flat&logo=Google-Play)](https://play.google.com/store/apps/details?id=com.olivate.horse_service)
 [![App Store](https://img.shields.io/badge/-AppStore-000000?style=flat&logo=App-Store)](https://apps.apple.com/us/app/id1506163591)  
 
 **Yitus**  
+:school_satchel: High school students helped by engineering students  
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=Google-Chrome)](https://yitus.fr)
 [![Google Play](https://img.shields.io/badge/-GooglePlay-000000?style=flat&logo=Google-Play)](https://play.google.com/store/apps/details?id=com.polytech.yitus)
 [![App Store](https://img.shields.io/badge/-AppStore-000000?style=flat&logo=App-Store)](https://apps.apple.com/us/app/id1511317507)  
