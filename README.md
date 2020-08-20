@@ -14,7 +14,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-## Some of the technologies I can work with
+## Some of the technologies I'm working with
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
@@ -40,6 +40,17 @@
 :chart_with_upwards_trend: QwtPlot where the user can edit the points with the mouse  
 [![GitHub](https://img.shields.io/badge/-Repository-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/TomRvr/QwtEditablePlot)  
 
+**Guitar-Tuner**  
+:guitar: Guitar tuner with a Stm32 Nucleo board   
+[![GitHub](https://img.shields.io/badge/-Repository-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/TomRvr/Guitar-Tuner)  
+
+**Akinator**  
+:question: Game similar to Akinator with graphical interface   
+[![GitHub](https://img.shields.io/badge/-Repository-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/TomRvr/Akinator) 
+
+**Music-Box**  
+:musical_note: Music box with Nucleo F446RE and a daughter card   
+[![GitHub](https://img.shields.io/badge/-Repository-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/TomRvr/Music-Box)   
 <!--
 **TomRvr/TomRvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 icons : https://simpleicons.org
